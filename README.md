@@ -4,6 +4,7 @@
 ### Задачи:  
 Разработать мобильное приложение для загрузки фото дня с сайта. Каждый день информация обновляется.  
 • адрес сайта - https://apod.nasa.gov/apod/astropix.html
+• Api- https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
 
 ### Используемые инструменты и технологии:  
 • Kotlin, Retrofit, Coil, Gson, Json.  
