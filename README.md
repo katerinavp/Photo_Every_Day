@@ -9,4 +9,4 @@
 ### Используемые инструменты и технологии:  
 • Kotlin, Retrofit, Coil, Gson, Json.  
 
-<img src="https://github.com/katerinavp/Photo_Every_Day/blob/master/Screenshot_Photo_Every_Day.jpg" width="200" height="400">
+<img src="https://github.com/katerinavp/Photo_Every_Day/blob/master/art/Screenshot_Photo_Every_Day.jpg" width="200" height="400">
